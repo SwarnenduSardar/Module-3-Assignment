@@ -71,12 +71,4 @@ button{
   background-color: #aefce8;
   margin: 0 auto 15px;
 }
-@media(max-width: 767px){
-  .navbar-brand h1{
-   font-size: 7vw;
-  }
-@media(max-width: 575px){
-  .navbar-brand h1{
-   font-size: 2em;
-  }
-}
+
