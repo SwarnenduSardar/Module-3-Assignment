@@ -73,6 +73,6 @@ button{
 }
 @media(max-width: 767px){
   .navbar-brand h1{
-   font-size: 5vw
+   font-size: 7vw;
   }
 }
